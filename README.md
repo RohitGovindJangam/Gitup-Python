@@ -5,68 +5,70 @@ In this project, I developed a text editor application called "Note Word" using 
 
  **Step-by-Step Guide:**
 
-*Importing Required Libraries:
+* Importing Required Libraries:
 
-*Imported Tkinter modules and other necessary libraries for GUI development.
+* Imported Tkinter modules and other necessary libraries for GUI development.
 
 
 **Setting up the Main Application:**
 
-*Created the main application window with a specified geometry and title.
+* Created the main application window with a specified geometry and title.
 
 
 **Creating the Main Menu:**
 
-*Designed the main menu with options like File, Edit, View, and Color Themes.
-*Added submenus and icons for each menu option.
+* Designed the main menu with options like File, Edit, View, and Color Themes.
+  
+* Added submenus and icons for each menu option.
 
 
 **Designing the Tool Bar:**
 
-*Designed a toolbar containing various tools for text formatting and alignment.
-*Included options for selecting font, font size, bold, italic, underline, font color, and text alignment.
+* Designed a toolbar containing various tools for text formatting and alignment. 
+
+* Included options for selecting font, font size, bold, italic, underline, font color, and text alignment.
 
 
 **Implementing Text Editor:**
 
-*Integrated a text editor widget using the Tkinter Text widget.
-*Configured the text editor with features like word wrapping, scrollbars, and focus settings.
+* Integrated a text editor widget using the Tkinter Text widget.
+* Configured the text editor with features like word wrapping, scrollbars, and focus settings.
 
 
 **Adding Functionality to Tool Bar Buttons:**
 
-*Implemented functions for font selection, font size, text formatting (bold, italic, underline), font color, and text alignment (left, center, right).
-*Linked these functions to the corresponding toolbar buttons for user interaction.
+* Implemented functions for font selection, font size, text formatting (bold, italic, underline), font color, and text alignment (left, center, right).
+* Linked these functions to the corresponding toolbar buttons for user interaction.
 
 
 **Implementing Status Bar:**
 
-*Created a status bar at the bottom of the application window to display information about the text, such as word count and character count.
-*Updated the status bar dynamically as the user interacts with the text editor.
+* Created a status bar at the bottom of the application window to display information about the text, such as word count and character count.
+* Updated the status bar dynamically as the user interacts with the text editor.
 
 
 **Implementing File Operations:**
 
-*Added functionality for file operations like creating a new file, opening an existing file, saving, and saving as.
-*Implemented keyboard shortcuts for file operations to enhance user experience.
+* Added functionality for file operations like creating a new file, opening an existing file, saving, and saving as.
+* Implemented keyboard shortcuts for file operations to enhance user experience.
 
 
 **Implementing Find and Replace Functionality:**
 
-*Integrated a find and replace dialog box for searching and replacing text within the document.
-*Implemented functions to handle find and replace operations based on user input.
+* Integrated a find and replace dialog box for searching and replacing text within the document.
+* Implemented functions to handle find and replace operations based on user input.
 
 
 **Customizing View Options:**
 
-*Implemented view options to hide or show the toolbar and status bar based on user preferences.
-*Allowed users to customize their workspace by toggling these options.
+* Implemented view options to hide or show the toolbar and status bar based on user preferences.
+* Allowed users to customize their workspace by toggling these options.
 
 
 **Implementing Color Themes:**
 
-*Added support for customizing the color theme of the text editor.
-*Provided predefined color themes and allowed users to select their preferred theme from the menu.
+* Added support for customizing the color theme of the text editor.
+* Provided predefined color themes and allowed users to select their preferred theme from the menu.
 
 
 **Conclusion:**
